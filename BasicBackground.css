@@ -6144,14 +6144,6 @@ body:has(#app-mount)::after {
 	backdrop-filter: blur(var(--popoutblur_v));
 }
 
-/* ----		14.27.		DM-BACKGROUNDPICKER				---- */
-
-#app-mount .container_f86e69 {								/* popout												*/
-	background-image: linear-gradient(rgba(var(--transparencycolor_v), calc(var(--transparencyalpha_v) + 0.25)), rgba(var(--transparencycolor_v), calc(var(--transparencyalpha_v) + 0.25)));
-	background-color: rgb(var(--accentcolor_v));
-}
-
-
 /* ~~~~		15.		GENERAL						~~~~ */
 
 .highlight {
